@@ -1,0 +1,51 @@
+.tip {
+    background-color: #def6ed;
+    border-radius: 4px;
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 36px;
+}
+
+h2 {
+    font-size: 32px;
+    line-height: 32px;
+}
+
+
+.main_text {
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.page {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+    width: 100%;
+}
+
+nav {
+    display: inline;
+    background-color: #def6ed;
+    font-size: 20px;
+
+    a {
+        margin-right: 20px;
+    }
+}
+
+ul>li {
+    margin-bottom: 10px;
+}
+
+ol>li {
+    margin-bottom: 20px;
+}
+
+.ingredienten,
+.voorbreiden,
+.image {
+    margin-bottom: 40px;
+}
