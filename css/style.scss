@@ -1,6 +1,12 @@
+body {
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+}
+
 .tip {
     background-color: #def6ed;
     border-radius: 4px;
+    padding: 15px 25px;
 }
 
 h1 {
@@ -20,8 +26,7 @@ h2 {
 }
 
 .page {
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
     max-width: 1000px;
     width: 100%;
 }
